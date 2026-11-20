@@ -323,18 +323,25 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
+
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/0c9beb16-0759-48c5-a250-86add1b6f68c" />
 
 
 
 
 #2. Image with a line drawn from the top-left to the bottom-right.
+
+
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/d6e91c40-ad32-4c74-9012-cbaa6d969328" />
 
 
 
 
 #3. Image with a circle .
+
+
 
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/80d87bb2-4a45-46b3-ab8d-ecb2f5cafc70" />
 
@@ -343,11 +350,15 @@ plt.axis("off")
 #4. Image with a rectangle around its boundary.
 
 
+
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/7be760fb-0181-4437-b975-f41d2d5f1aa3" />
 
 
 
 #5. Image with the text "OpenCV Drawing".
+
+
 
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/72f59d83-96d8-47e9-9516-0a7be8e4f355" />
 
@@ -355,15 +366,21 @@ plt.axis("off")
 
 #6. HSV, grayscale, and YCrCb color space conversions.
 
+
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/c78982a7-06a5-4f5c-bc2f-2a2b90c97e8e" />
 
 
 #HSV conversion
 
+
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/babea703-1575-41f9-aa30-aaab9abba59b" />
 
 
 #grayscale conversion
+
+
 
 
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/7749121e-b05f-4d7e-aa49-8e16e1a94446" />
@@ -373,11 +390,14 @@ plt.axis("off")
 #YCrCb conversion
 
 
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/4be7c2d7-9cba-482c-91fd-be0dde8d2a6b" />
 
 
 
 #7. Image converted from HSV back to RGB.
+
+
 
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/c79b6c27-0ef6-4d90-8cc0-24aa51a3afff" />
 
@@ -387,16 +407,22 @@ plt.axis("off")
 #8. Pixel value displayed and a white region added to the image.
 
 
+
 <img width="302" height="410" alt="download" src="https://github.com/user-attachments/assets/0e5f00e6-d1e3-4a71-bbcf-d0d13849575d" />
+
 
 
 #9. Image resized to half its original dimensions.
 
 
+
 <img width="493" height="410" alt="download" src="https://github.com/user-attachments/assets/e7f5af1b-239f-4b39-8c46-e54cea9cef51" />
 
 
+
 #10. Cropped region of interest displayed.
+
+
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/7ac4e91b-765d-4b09-aac8-d413310866d6" />
 
@@ -404,12 +430,15 @@ plt.axis("off")
 #11. Horizontally flipped image displayed.
 
 
+
 <img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/65bad006-33ed-41bc-b10f-8b01f743c314" />
 
 
 #12. Vertically flipped image displayed.
-<img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/ebbe1670-423b-40e2-8f1e-8d6343709006" />
 
+
+
+<img width="268" height="410" alt="download" src="https://github.com/user-attachments/assets/ebbe1670-423b-40e2-8f1e-8d6343709006" />
 
 
 
